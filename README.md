@@ -1,0 +1,2 @@
+# VintageStoryInstallerScript
+Only for arch
